@@ -8,11 +8,11 @@ const Navbar = () => {
                 <a href="#">ReactTailwind</a>
             </div>
 
-            <ul>
-                <li><a href="#">Home</a></li>
-                <li><a href="#">About</a></li>
-                <li><a href="#">Service</a></li>
-                <li><a href="#">Contact</a></li>
+            <ul className='flex'>
+                <li className='mx-5'><a href="#">Home</a></li>
+                <li className='mx-5'><a href="#">About</a></li>
+                <li className='mx-5'><a href="#">Service</a></li>
+                <li className='mx-5'><a href="#">Contact</a></li>
             </ul>
         </div>
         
