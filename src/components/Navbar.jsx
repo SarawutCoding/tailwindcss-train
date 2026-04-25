@@ -8,7 +8,7 @@ const Navbar = () => {
                 <a href="#">ReactTailwind</a>
             </div>
 
-            <ul className='flex'>
+            <ul className='flex flex-col md:flex-row'>
                 <li className='mx-5'><a href="#">Home</a></li>
                 <li className='mx-5'><a href="#">About</a></li>
                 <li className='mx-5'><a href="#">Service</a></li>
