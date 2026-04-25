@@ -3,7 +3,7 @@ import React from 'react'
 const Navbar = () => {
   return (
     <nav className='shadow-md'>
-        <div className='container mx-auto'>
+        <div className='container mx-auto flex justify-between items-center'>
             <div>
                 <a href="#">ReactTailwind</a>
             </div>
