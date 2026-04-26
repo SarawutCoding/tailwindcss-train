@@ -2,8 +2,8 @@ import React from 'react'
 
 const MainPage = () => {
   return (
-    <main className='container mx-auto'>
-        <div className='flex flex-row p-3 bg-amber-200'>
+    <main className='bg-amber-200'>
+        <div className='container mx-auto flex flex-row justify-between items-center'>
             <h1 className='text-2xl'>
                 สวัสดี ผม สราวุฒิ พวงสุมาลี
             </h1>
