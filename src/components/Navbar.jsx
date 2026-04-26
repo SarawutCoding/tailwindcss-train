@@ -2,7 +2,7 @@ import React from 'react'
 
 const Navbar = () => {
   return (
-    <nav className='shadow-md p-5'>
+    <nav className='shadow-md p-5 bg-sky-500'>
         <div className='container mx-auto flex flex-col md:flex-row justify-between items-center'>
             <div>
                 <a href="#">ReactTailwind</a>
